@@ -1,1 +1,19 @@
+Creation:
 
+Creating the dashboard wasn't too complicated becuase I was able to use a lot of the code I had already written for my EDA. I just had to modify a few parts for each of the graphs to transfer to Streamlit. The biggest challenge I faced when creating the dashboard was integrating the interactive elements. That took some trial and error, but after some web searches and some help from ChatGPT I was able to get my interactive elements to work.
+
+Feedback:
+
+About your dashboard, I really liked your introduction. It tells me what I can expect to do and see in your dashboard. I liked you always include abbreviation explanations. Very easy to use dashboard. The only thing is that for your Top Teams I would do a max of maybe 50 teams. After certain number the names of the teams begin to overlap with each other.
+
+Your dashboard was awesome! It was fun to play around with my favorite teams. My suggestion would be the ability (if possible) to change the order of the teams in the dropdown. I wanted to only look at a couple teams like BYU and had trouble finding them at first. 
+
+For you streamlit app, the graphs are again outstanding. The interactivity is good. I think you could add some more text descriptions for each graph, perhaps in the form of a caption or something. I think it would just help me more quickly know what I am looking at or should be looking for.
+
+Improvements:
+
+I went in and limited the slider to only go from 1 to 50. The graph works with any number of those teams, but anything more was too clustered like they had mentioned.
+
+I changed the filters that apply to my dataset viewer to make team names and conference names appear in alphabetical order, making them much easier to locate.
+
+Adding short captions before each graph was a great suggestion. I added little descriptions before the graphs to explain what they can do and what insights could be gained from them.
