@@ -1,1 +1,17 @@
+SHA number of original blog post commit: e198c0b41de490858f929b36f7109bbdc8be8fe7
 
+Feedback I recieved:
+
+Your EDA was very Self Explanatory. Is like if we were talking in person and you were explaining your findings. I would just recommend splitting the long paragraphs into two or more and explain what “Harder Schedule” means.
+
+I like how you start off with questions, it helps us as readers get interested in your article. The post was really interesting and you had some great stats. I wish you would have discussed more about why you think (and possibly could have tested) there was a low correlation between 3PR and win rate. It would be awesome for you to ask the question and then investigate and find some sort of explanation or answer. Overall, it was a good read!
+
+For the second blog post, the analysis is very well done and the graphs are visually appealing. I think you could do a bit more in the summary section recapping everything that you learned through the analysis. It could be just a couple sentences, but it would help the main takeaways stick with me a bit better.
+
+Improvements:
+
+I went back through my paragraphs, but couldn't find good spots to split them because all of the thoughts were related and not too long. There was one paragraph I did split, however, because I added more of my thoughts on the correlation between 3PR and wins. I did add a better explanation for what 'harder schedule' means though.
+
+As I mentioned in the previous paragraph, I went back and added more of my thoughts on the correlation between 3PR and wins.
+
+I added a couple more sentences to my summary section to help reinforce some of my insights from the EDA.
