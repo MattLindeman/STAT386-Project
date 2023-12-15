@@ -1,1 +1,17 @@
+SHA number of original blog post commit: e198c0b41de490858f929b36f7109bbdc8be8fe7
 
+Feedback I recieved:
+
+It is very organized. You create it in a way that is very reproducible. I really liked you used multiple sources of code. You make web scrapping look like a piece of cake. My only recommendation is to fix the alignment of your table. 
+
+I really liked your project choice. I think it's important to choose something that you're passionate about and you did that, it really showed in your post. I'm not a huge basketball analytics guy, but I liked how you explained your code. My suggestion would be to add more visuals (like code chunks) when you talk about the challenges you overcame with the data cleaning. Maybe show an example of the headers that you wanted to get rid of so we could get a better glance into your process. I also noticed a few typos in the blog, it wouldn't hurt to run it through a grammar checker or AI tool.
+
+For the first blog post, the process is explained in a clear and straightforward way. I don't think any adjusting needs to be done in that aspect. The ethical considerations are also valid. I think it would be a good idea to throw in a link to the website there the data was scraped. Perhaps if there is a way to condense the table preview of the data, that might be good as well.
+
+Improvements:
+
+My table previously did not fit the width of the webpage and would go off the screen. I made it so the table was scrollable horizontally and it fixed the issue of it going off the side of the screen.
+
+I didn't make changes to the code chunks because showing an example of the headers that needed to be removed would take up too much space. I do have the code I used to remove the headers though. As for the typos, I had two typos and fixed them both.
+
+As I mentioned earlier I fixed the formatting issues with the table. I also added a hyperlink to the Barttorvik website that is mentioned in my blog post.
